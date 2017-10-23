@@ -15,7 +15,7 @@ React native ve firebase kullanılarak geliştirilmiş örnek öğrenci kayıt u
 
 <br>
    
-Kendi firebase hesabınıza bağlamak için bu kısmı değiştirmelisiniz.(Firebase hesabınıza girip web kurulumu sekmensinden bu bölümü elde edebilirsiniz.)
+Kendi firebase hesabınıza bağlamak için bu kısmı(Main.js dosyası) değiştirmelisiniz.(Firebase hesabınıza girip web kurulumu sekmensinden bu bölümü elde edebilirsiniz.)
 
 ```
 class Main extends Component {
