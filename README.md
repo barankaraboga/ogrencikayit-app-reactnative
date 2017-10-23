@@ -1,6 +1,6 @@
 # ogrencikayit-app-reactnative
 
-<img align="left" width="75" height="64" src="http://www.trentiums.com/images/react-native/React-Native.png">
+<img align="left" width="95" height="64" src="http://www.trentiums.com/images/react-native/React-Native.png">
 <img align="left" width="64" height="64" src="https://www.shareicon.net/download/2016/07/08/117547_developer_512x512.png">
 
 React native ve firebase kullanılarak geliştirilmiş örnek öğrenci kayıt uygulaması , react native'e yeni başlayan arkadaşlar için örnek olması dileğiyle :) ,react-redux yapısı kullanılarak geliştirilmiştir.
