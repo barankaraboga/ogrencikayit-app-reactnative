@@ -9,13 +9,14 @@ import Router from './Router';
 
 class Main extends Component {
 componentWillMount() {
+    // bu kısmı kendi firebase hesabınıza göre ayarlamalısınız.
     firebase.initializeApp({
-    apiKey: 'AIzaSyAPVfyh_vgO8Q-y2XMaJahdMzZ3uoMU2Y8',
-    authDomain: 'react-ogrencikayit.firebaseapp.com',
-    databaseURL: 'https://react-ogrencikayit.firebaseio.com',
-    projectId: 'react-ogrencikayit',
-    storageBucket: 'react-ogrencikayit.appspot.com',
-    messagingSenderId: '884010301829'
+    apiKey: 'AIzaS***_***-****',
+    authDomain: '****.firebaseapp.com',
+    databaseURL: 'https://****.firebaseio.com',
+    projectId: '****',
+    storageBucket: '****.appspot.com',
+    messagingSenderId: '****'
   });
 }
 
