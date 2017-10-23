@@ -11,10 +11,10 @@ React native ve firebase kullanılarak geliştirilmiş örnek öğrenci kayıt u
 
 <img align="left" width="225" height="400" src="http://barankaraboga.com/wp-content/uploads/2017/10/Screenshot_2017-10-23-11-45-33-178_com.studentproject.png">
 
-<img align="left" width="225" height="400" src="http://barankaraboga.com/wp-content/uploads/2017/10/Screenshot_2017-10-23-11-45-20-727_com.studentproject.png">
+<img width="225" height="400" src="http://barankaraboga.com/wp-content/uploads/2017/10/Screenshot_2017-10-23-11-45-20-727_com.studentproject.png">
 
 <br>
-
+   
 Kendi firebase hesabınıza bağlamak için bu kısmı değiştirmelisiniz.(Firebase hesabınıza girip web kurulumu sekmensinden bu bölümü elde edebilirsiniz.)
 
 ```
